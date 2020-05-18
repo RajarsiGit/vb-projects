@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\bin\Debug\Chegg_5.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\bin\Debug\Chegg_5.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\bin\Debug\Chegg_5.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\bin\Debug\Chegg_5.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\obj\Debug\Chegg_5.vbprojAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\obj\Debug\Chegg_5.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\obj\Debug\Chegg_5.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\obj\Debug\Chegg_5.vbproj.GenerateResource.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\obj\Debug\Chegg_5.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\obj\Debug\Chegg_5.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\obj\Debug\Chegg_5.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_5\obj\Debug\Chegg_5.pdb

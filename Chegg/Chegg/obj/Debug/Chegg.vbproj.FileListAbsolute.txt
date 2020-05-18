@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Chegg\Chegg\bin\Debug\Chegg.exe.config
+C:\Users\Administrator\source\repos\Chegg\Chegg\bin\Debug\Chegg.exe
+C:\Users\Administrator\source\repos\Chegg\Chegg\bin\Debug\Chegg.pdb
+C:\Users\Administrator\source\repos\Chegg\Chegg\bin\Debug\Chegg.xml
+C:\Users\Administrator\source\repos\Chegg\Chegg\obj\Debug\Chegg.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Chegg\Chegg\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Administrator\source\repos\Chegg\Chegg\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Administrator\source\repos\Chegg\Chegg\obj\Debug\Chegg.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Chegg\Chegg\obj\Debug\Chegg.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chegg\Chegg\obj\Debug\Chegg.exe
+C:\Users\Administrator\source\repos\Chegg\Chegg\obj\Debug\Chegg.xml
+C:\Users\Administrator\source\repos\Chegg\Chegg\obj\Debug\Chegg.pdb

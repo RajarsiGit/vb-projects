@@ -1,0 +1,24 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\obj\Debug\Chegg_3.vbprojAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\obj\Debug\Chegg_3.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\obj\Debug\Chegg_3.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\obj\Debug\Chegg_3.vbproj.GenerateResource.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\obj\Debug\Chegg_3.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\bin\Debug\Chegg_3.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\bin\Debug\Chegg_3.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\bin\Debug\Chegg_3.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\bin\Debug\Chegg_3.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\obj\Debug\Chegg_3.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\obj\Debug\Chegg_3.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chegg_3\obj\Debug\Chegg_3.pdb
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\bin\Debug\Chegg_3.exe.config
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\bin\Debug\Chegg_3.exe
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\bin\Debug\Chegg_3.pdb
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\bin\Debug\Chegg_3.xml
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\obj\Debug\Chegg_3.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\obj\Debug\Chegg_3.Form1.resources
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\obj\Debug\Chegg_3.Resources.resources
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\obj\Debug\Chegg_3.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\obj\Debug\Chegg_3.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\obj\Debug\Chegg_3.exe
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\obj\Debug\Chegg_3.xml
+C:\Users\Administrator\source\repos\Chegg_3\Chegg_3\obj\Debug\Chegg_3.pdb
